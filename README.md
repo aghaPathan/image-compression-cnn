@@ -215,3 +215,13 @@ My sincere thanks to [@jazzsaxmafia](https://github.com/jazzsaxmafia), [@carpedm
 > they can be encoded at a better quality compared to background regions. Experiments are
 > presented on the Kodak PhotoCD dataset and the MIT Saliency Benchmark dataset, in
 > which our algorithm achieves higher visual quality for the same compressed size.
+
+---
+
+## CI Status
+
+All PRs are checked for:
+- ✅ Syntax (Python, JS, TS, YAML, JSON, Dockerfile, Shell)
+- ✅ Secrets (No hardcoded credentials)
+- ✅ Security (High-severity vulnerabilities)
+
